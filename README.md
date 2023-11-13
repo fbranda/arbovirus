@@ -1,5 +1,8 @@
 # Arbovirus overview
-In progress
+
+## West Nile
+
+All data are available at the link: https://github.com/fbranda/west-nile
 
 ## Dengue
 ### Filename
@@ -82,9 +85,21 @@ Data source: [Istituto Superiore di Sanità (ISS)](https://www.epicentro.iss.it/
 | **cases**      | Numeric | 	Total number of reported cases of dengue  |
 
 
-## West Nile
+## Example of data use
 
-All data are available at the link: https://github.com/fbranda/west-nile
+**Direct download (CSV)**: https://raw.githubusercontent.com/fbranda/arbovirus/main/chikungunya/chikungunya-ita-summary-cases.csv
+
+**Python** (requires `pandas`):
+```python
+import pandas as pd
+df = pd.read_csv("https://raw.githubusercontent.com/fbranda/arbovirus/main/chikungunya/chikungunya-ita-summary-cases.csv")
+```
+
+**R** (requires `httr`):
+```r
+library(httr)
+df <- read.csv(text=content(GET("https://raw.githubusercontent.com/fbranda/arbovirus/main/chikungunya/chikungunya-ita-summary-cases.csv")))
+```
 
 
 
