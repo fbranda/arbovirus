@@ -1,4 +1,4 @@
-"data","location","percent_cases"
+"data","location","percent_cases_week_exposure"
 2023-09-04,"Messico",12
 2023-09-04,"Cuba",11
 2023-09-04,"Thailandia",11
@@ -169,48 +169,3 @@
 2023-11-20,"Bangladesh",3
 2023-11-20,"Burkina Faso",2
 2023-11-20,"Altro",17
-2023-11-27,"Messico",12
-2023-11-27,"Thailandia",11
-2023-11-27,"India",9
-2023-11-27,"Cuba",8
-2023-11-27,"Indonesia",7
-2023-11-27,"Maldive",7
-2023-11-27,"Brasile",5
-2023-11-27,"Rep. Dominicana",5
-2023-11-27,"Peru",4
-2023-11-27,"Costa d'Avorio",4
-2023-11-27,"Sri Lanka",3
-2023-11-27,"Costarica",3
-2023-11-27,"Bangladesh",3
-2023-11-27,"Burkina Faso",2
-2023-11-27,"Altro",17
-2023-12-04,"Messico",12
-2023-12-04,"Thailandia",11
-2023-12-04,"India",10
-2023-12-04,"Cuba",8
-2023-12-04,"Indonesia",8
-2023-12-04,"Maldive",7
-2023-12-04,"Brasile",5
-2023-12-04,"Rep. Dominicana",5
-2023-12-04,"Peru",3
-2023-12-04,"Costa d'Avorio",3
-2023-12-04,"Sri Lanka",3
-2023-12-04,"Costarica",3
-2023-12-04,"Bangladesh",3
-2023-12-04,"Burkina Faso",2
-2023-12-04,"Altro",17
-2023-12-31,"Messico",11
-2023-12-31,"Thailandia",11
-2023-12-31,"India",10
-2023-12-31,"Cuba",8
-2023-12-31,"Indonesia",8
-2023-12-31,"Maldive",6
-2023-12-31,"Brasile",6
-2023-12-31,"Rep. Dominicana",4
-2023-12-31,"Peru",3
-2023-12-31,"Costa d'Avorio",3
-2023-12-31,"Sri Lanka",3
-2023-12-31,"Costarica",3
-2023-12-31,"Bangladesh",3
-2023-12-31,"Burkina Faso",2
-2023-12-31,"Altro",18
