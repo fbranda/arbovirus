@@ -1,5 +1,6 @@
-"data","new_cases","total_cases","new_deaths","total_deaths","male","female","median_age","autochthonous","imported"
+"data","new_cases","total_cases","new_deaths","total_deaths","perc_male_cases","perc_female_cases","median_age_cases","autochthonous_cases","imported_cases"
 2024-04-08,117,117,0,0,"50.43","49.57",42,0,117
 2024-05-13,80,197,0,0,"51.78","48.22",43,0,197
 2024-06-10,62,259,0,0,"50","50",43,0,259
-2024-07-11,24,283,0,0,"50","50",42,0,283
+2024-07-08,24,283,0,0,"50","50",42,0,283
+2024-08-06,41,324,0,0,"49","51",40,0,324
