@@ -1,4 +1,4 @@
-"year","Month","cases","autochthonous","imported"
+"year","month","cases","autochthonous_cases","imported_cases"
 2015,"January",1,0,1
 2015,"February",7,0,7
 2015,"March",6,0,6
@@ -109,7 +109,8 @@
 2023,"December",19,0,19
 2024,"January",43,0,43
 2024,"February",34,0,34
-2024,"March",57,0,57
+2024,"March",58,0,58
 2024,"April",54,0,54
-2024,"May",67,0,67
-2024,"June",5,0,5
+2024,"May",74,0,74
+2024,"June",21,1,20
+2024,"July",38,1,37
