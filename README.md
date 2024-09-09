@@ -1,4 +1,4 @@
-# Arbovirus overview
+# Overview
 
 ## West Nile
 
@@ -104,6 +104,11 @@ df <- read.csv(text=content(GET("https://raw.githubusercontent.com/fbranda/arbov
 ## Contributions
 1) [Branda F, Scarpa F, Romano C, Ciccozzi A, Maruotti A, Giovanetti M, Ciccozzi M. Chikungunya vaccine: Is it time for it?. Journal of Medical Virology. 2023 Dec 1;95(12):e29341-.](https://onlinelibrary.wiley.com/doi/full/10.1002/jmv.29341)
 2) [Branda F, Nakase T, Maruotti A, Scarpa F, Ciccozzi A, Romano C, Peletto S, Bispo de Filippis AM, Alcantara LC, Marcello A, Ciccozzi M. Dengue virus transmission in Italy: surveillance and epidemiological trends up to 2023. medRxiv. 2023:2023-12.](https://www.medrxiv.org/content/10.1101/2023.12.19.23300208v1)
+
+## License
+
+[CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/deed.it) - [View license](https://github.com/fbranda/arbovirus/blob/main/LICENSE.md)
+
 
 
 
