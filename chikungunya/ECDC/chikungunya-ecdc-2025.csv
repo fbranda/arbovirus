@@ -1,0 +1,28 @@
+"year","last_epi_week_reported","country_name","cluster_id","nuts_3","lau","cluster_status","date_of_onset_first","date_of_onset_last","n_cases"
+2025,33,"France","2025-CHIK-34-PRADES-LE-LEZ","Herault","Prades-le-Lez","Closed",2025-05-27,2025-05-27,1
+2025,33,"France","2025-CHIK-83-LA CRAU","Var","La Crau","Closed",2025-06-02,2025-06-05,2
+2025,33,"France","2025-CHIK-30-BERNIS","Gard","Bernis","Closed",2025-06-11,2025-06-11,1
+2025,33,"France","2025-CHIK-26-MONTOISON","Drome","Montoison","Closed",2025-06-13,2025-06-19,3
+2025,33,"France","2025-CHIK-13-SALON-DE-PROVENCE","Bouches-du-Rhone","Salon-de-Provence, Grans, and Lambesc","Active",2025-06-16,2025-06-30,13
+2025,33,"France","2025-CHIK-83-TOULON","Var","Toulon","Closed",2025-06-16,2025-06-16,1
+2025,33,"France","2025-CHIK-2A-GROSSETO-PRUGNA","Corse-du-Sud","Grosseto-Prugna","Active",2025-06-19,2025-08-01,14
+2025,33,"France","2025-CHIK-67-LIPSHEIM","Bas-Rhin","Lipsheim","Closed",2025-06-26,2025-06-26,1
+2025,33,"France","2025-CHIK-13-VITROLLES","Bouches-du-Rhone","Vitrolles","Active",2025-06-29,2025-08-05,23
+2025,33,"France","2025-CHIK-34-CASTRIES","Herault","Castries","Active",2025-06-30,2025-07-26,12
+2025,33,"France","2025-CHIK-38-CLAIX","Isere","Claix and Vizille","Active",2025-07-01,2025-07-27,5
+2025,33,"France","2025-CHIK-83-FREJUS","Var","Fr√©jus","Active",2025-07-01,2025-08-03,5
+2025,33,"France","2025-CHIK-16-VAL-DE-COGNAC","Charente","Cherves-Richemont","Active",2025-07-01,2025-08-03,5
+2025,33,"Italy","Castel San Giovanni","Piacenza","Castel San Giovanni","Active",2025-07-09,2025-07-09,1
+2025,33,"France","2025-CHIK-64-HENDAYE","Pyrenees-Atlantiques","Hendaye","Active",2025-07-09,2025-07-24,3
+2025,33,"France","2025-CHIK-06-ANTIBES","Alpes-Maritimes","Antibes","Active",2025-07-09,2025-07-31,4
+2025,33,"France","2025-CHIK-30-POULX","Gard","Poulx and Caveirac","Active",2025-07-10,2025-08-07,11
+2025,33,"Italy","Bentivoglio","Bologna","Bentivoglio","Active",2025-07-16,2025-07-16,1
+2025,33,"France","2025-CHIK-40-DAX","Landes","Dax","Active",2025-07-19,2025-07-19,1
+2025,33,"France","2025-CHIK-06-AURIBEAU-SUR-SIAGNE","Alpes-Maritimes","Auribeau-sur-Siagne","Active",2025-07-21,2025-07-21,1
+2025,33,"France","2025-CHIK-21-DIJON","Cote-d’Or","Dijon","Active",2025-07-24,2025-07-24,1
+2025,33,"Italy","Affi","Verona","Affi","Active",2025-07-31,2025-07-31,1
+2025,33,"France","2025-CHIK-2B-GHISONACCIA","Haute-Corse","Ghisonaccia","Active",2025-07-31,2025-07-31,2
+2025,33,"France","2025-CHIK-06-NICE","Alpes-Maritimes","Nice","Active",2025-07-31,2025-07-31,1
+2025,33,"France","2025-CHIK-38-EYBENS","Isere","Eybens","Active",2025-08-02,2025-08-02,1
+2025,33,"Italy","Negrar di Valpolicella","Verona","Negrar di Valpolicella","Active",2025-08-03,2025-08-03,1
+2025,33,"Italy","Carpi","Modena","Carpi","Active",2025-08-04,2025-08-07,3
